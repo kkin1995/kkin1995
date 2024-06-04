@@ -13,7 +13,17 @@ My journey into AI has been marked by the creation of two impactful proof-of-con
 My long-term ambition is to carve out a niche in the interdisciplinary field where Astrophysics collides with AI. I am currently expanding my horizons not only in academic research but also in the technical concepts of ML.
 
 ### 📫 How to reach me:
-Drop me an email at [karan@karankinariwala.com](mailto:karan@karankinariwala.com)
+Drop me an email at [karan@karankinariwala.com](mailto:karan@karankinariwala.com) or connect with me on:
+
+🔗 [LinkedIn](www.linkedin.com/in/karan-kinariwala)
+
+### Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkin1995)](https://github.com/kkin1995/github-readme-stats)
+
+### GitHub Stats:
+
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkin1995)](https://github.com/kkin1995/github-readme-stats)
 
 <!--
 **kkin1995/kkin1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
